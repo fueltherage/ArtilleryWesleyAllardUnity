@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Normal Map Textures\GameMaster.cs">
+    <Files>
+      <File FileName="Assets\scripts\NukeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Normal Map Textures\CameraXY.cs" Line="22" Column="1" />
+      <File FileName="Assets\Normal Map Textures\GameMaster.cs" Line="49" Column="26" />
+      <File FileName="Assets\scripts\LightDamp.cs" Line="8" Column="27" />
+      <File FileName="Assets\RotatingBackground.cs" Line="8" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
